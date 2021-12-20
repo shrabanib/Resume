@@ -1,0 +1,19 @@
+.my-fa {
+	color: green;
+}
+
+.navspace {
+	padding: 0;
+}
+
+.my-fas {
+	color: blue;
+}
+
+#my-nav {
+	font-size: 20px;
+	width: 160px;
+	border-radius: 70px;
+	background-color: rgb(180, 204, 153);
+}
+
