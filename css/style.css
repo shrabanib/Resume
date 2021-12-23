@@ -7,7 +7,7 @@
 }
 
 .my-fas {
-	color: blue;
+	color: #00aaff;
 }
 
 #my-nav {
@@ -16,4 +16,19 @@
 	border-radius: 70px;
 	background-color: #339cff;
 }
+
+/*.navbar-custom .nav-item.active .nav-link{
+	color: red !important;
+}*/
+
+/*.nav-link {
+    color: white !important;
+}*/
+
+/*.nav-item > a:hover {
+  color: red;
+}*/
+
+
+
 
